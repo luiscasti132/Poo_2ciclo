@@ -125,8 +125,10 @@ if __name__ == "__main__":
 ### El archivo binario generado por el programa (inventario.dat).
 El archivo binario generado por el programa es `inventario.dat`.
 <img width="1412" height="821" alt="image" src="https://github.com/user-attachments/assets/3acd9bc5-ae72-4ae8-a032-f39f8d580d87" />
+### Un reporte en formato PDF o markdown que incluya capturas de pantalla de la consola demostrando el proceso de guardado y posterior carga de los datos.
 
 
+[Reporte_Taller_POO_LuisMiguel_v2.docx](https://github.com/user-attachments/files/28114101/Reporte_Taller_POO_LuisMiguel_v2.docx)
 
     
     
